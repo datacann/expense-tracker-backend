@@ -1,0 +1,5 @@
+INFO:     192.168.1.73:61847 - "GET /health HTTP/1.1" 200 OK
+INFO:     192.168.1.27:61071 - "POST /v1/receipts/analyze HTTP/1.1" 200 OK
+INFO:     192.168.1.27:61099 - "POST /v1/receipts/analyze HTTP/1.1" 200 OK
+INFO:     192.168.1.27:52826 - "POST /v1/receipts/analyze HTTP/1.1" 200 OK
+INFO:     192.168.1.27:52859 - "POST /v1/receipts/analyze HTTP/1.1" 200 OK
